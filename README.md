@@ -40,3 +40,17 @@ FC,PCM,EDMにはバックトラック（FC,PCMはハイハット　EDMはバス�
 　MIDI NOTE NO 41 - 44,57 - 59　（LAUNCH PAD Control）  
 　PC Key 1-7  
 それぞれサウンドトラックのON/OFFできます。  
+
+
+[パプビート7個使った作品を作った。] 
+https://twitter.com/stake2722/status/960060263880798208 
+[Mufoキャラの変遷] 
+https://twitter.com/stake2722/status/960081624862830597 
+[MuFoのシャツ貰った！] 
+https://twitter.com/MuFoApp/status/960121264546381824 
+[揺れたり 光ったり 音が出たり] 
+https://twitter.com/tatmos/status/960075269859024896 
+[Max と細かいSTEM素材　とマルチアウト] 
+https://twitter.com/tatmos/status/959914272657522688 
+[曲構成、画面構成ラフスケッチ] 
+https://twitter.com/tatmos/status/960060488477417472 
