@@ -1,5 +1,6 @@
 # MHD2018HapTune
-MUSIC HACK DAY TOKYO 2018  HapTune
+MUSIC HACK DAY TOKYO 2018  HapTune  
+https://entertechlab.jp/p/32
 
 Max Patch 
 
